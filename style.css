@@ -1,0 +1,99 @@
+body{
+    text-align: center;
+    color: blue;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+h1{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: 50px;
+}
+
+#me{
+    height: 300px;
+    width: 200px;
+    border-style: inset;
+    border-color: chartreuse;
+    border-width: 8px;
+}
+
+#aboutMe{
+    height: 1000px;
+    width: 100%;
+    background-image :linear-gradient(#ff0000 0%, #ffff00 100%);
+    border-style:inset;
+    border-color: palegreen;
+    border-width: 8px;
+    border-radius: 40px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+
+#myup{
+     max-width: 500px;
+    margin: 25px auto;
+    font-size: 18px;
+    line-height: 1.3;
+    font-family: cursive;
+}
+
+.line{
+    background-color: cornflowerblue;
+    height: 10px;
+    width: 500px;
+    margin: 8px auto;
+}
+
+#applabproject{
+    height: 800px;
+    width: 100%;
+    background-image :linear-gradient(#ff0000 0%, #ffff00 100%);
+    border-style:inset;
+    border-color: palegreen;
+    border-width: 10px;
+    border-radius: 40px;
+}
+
+#chatbot{
+ height: 800px;
+    width: 100%;
+    background-image :linear-gradient(#ff0000 0%, #ffff00 100%);
+    border-style:inset;
+    border-color: palegreen;
+    border-width: 10px;
+    border-radius: 40px;
+}   
+    
+#games{
+    height: 800px;
+    width: 100%;
+    background-image :linear-gradient(#ff0000 0%, #ffff00 100%);
+    border-style:inset;
+    border-color: palegreen;
+    border-width: 10px;
+    border-radius: 40px;
+}
+
+iframe{
+    padding: 2px;
+}
+
+img{
+    transition: transform .2s;
+}
+
+img:hover{
+transform: scale(0.5);
+}
+
+
+
+
+
+
+
+
+
